@@ -16,7 +16,9 @@ Tổng quan
 
     Tự động hóa: SQL Jobs
 
+
 Cấu trúc thư mục
+
   pyspark_code/: Mã nguồn PySpark cho ETL.
 
   clean_data.py: Làm sạch dữ liệu thô, lưu vào Data Lake.
@@ -26,6 +28,7 @@ Cấu trúc thư mục
   sql_code/: Scripts SQL để tạo bảng và job tự động trong Oracle.
 
   powerBI_to_visualize/: File báo cáo Power BI.
+
 
 Tài nguyên
   DataSampleTest, data_lake: https://drive.google.com/drive/folders/1dPABeJtjlicOtklK0TEWGwZ3Fn3-RO-l?usp=drive_link
